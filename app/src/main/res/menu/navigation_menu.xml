@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/connection"
+        android:title="Connect" />
+
+    <item
+        android:id="@+id/touchpad"
+        android:title="Touchpad" />
+    <item
+        android:id="@+id/keyboard"
+        android:title="Keyboard" />
+    <item
+        android:id="@+id/media_player"
+        android:title="Media Player" />
+    <item
+        android:id="@+id/live_screen"
+        android:title="Live Screen" />
+    <item
+        android:id="@+id/power_off"
+        android:title="Power Off" />
+
+
+</menu>
